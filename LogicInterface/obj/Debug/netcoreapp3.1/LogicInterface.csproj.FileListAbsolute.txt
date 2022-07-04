@@ -1,0 +1,13 @@
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\bin\Debug\netcoreapp3.1\LogicInterface.deps.json
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\bin\Debug\netcoreapp3.1\LogicInterface.dll
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\bin\Debug\netcoreapp3.1\LogicInterface.pdb
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.AssemblyInfo.cs
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.csproj.CopyComplete
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.dll
+C:\Users\JB8157NI\Desktop\Documentos\centro\LogicInterface\obj\Debug\netcoreapp3.1\LogicInterface.pdb

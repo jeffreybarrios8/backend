@@ -1,0 +1,13 @@
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\bin\Release\netcoreapp3.1\BusinessLogicInterface.deps.json
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\bin\Release\netcoreapp3.1\BusinessLogicInterface.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\bin\Release\netcoreapp3.1\BusinessLogicInterface.pdb
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\bin\Release\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\bin\Release\netcoreapp3.1\Modelos.pdb
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.AssemblyInfo.cs
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.csproj.CopyComplete
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\LogicInterface\obj\Release\netcoreapp3.1\BusinessLogicInterface.pdb

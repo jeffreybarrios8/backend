@@ -1,0 +1,172 @@
+﻿{
+  "DependencyConfiguration": {
+    "Dependencies": [
+      {
+        "From": "Microsoft.Extensions.Logging.ILogger, Microsoft.Extensions.Logging.Abstractions",
+        "To": "Gmg.Common.Core.Logger.Logger, Gmg.Common.Core.Logger",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.DataAccess.Interface.IIdentidad, Gmg.Identidad.Service.DataAccess.Interface",
+        "To": "Gmg.Identidad.Service.DataAccess.Identidad, Gmg.Identidad.Service.DataAccess",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.DataAccess.Interface.IConnectionManager, Gmg.Identidad.Service.DataAccess.Interface",
+        "To": "Gmg.Identidad.Service.DataAccess.ConnectionManager, Gmg.Identidad.Service.DataAccess",
+        "DependencyType": "Transient"
+      },
+
+      {
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.IIdentidad, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Identidad, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.IConsultaIdentidad, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.ConsultaIdentidad, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Genesys.ClienteGenesys, Gmg.Identidad.Genesys",
+        "To": "Gmg.Identidad.Genesys.ClienteGenesys, Gmg.Identidad.Genesys",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Common.IContextLogger, Gmg.Common",
+        "To": "Gmg.Common.ContextLogger, Gmg.Common",
+        "DependencyType": "Scoped"
+      },
+      {
+        "From": "Gmg.Common.Core.ApiKeyValidation.Configuration.ApiKeyItem, Gmg.Common.Core.ApiKeyValidation",
+        "To": "Gmg.Common.Core.ApiKeyValidation.Configuration.ApiKeyItem, Gmg.Common.Core.ApiKeyValidation",
+        "DependencyType": "Scoped"
+      },
+      {
+        "From": "Gmg.Identidad.Service.ServiceFilters.ApiKeyAttribute, Gmg.Identidad.Service",
+        "To": "Gmg.Identidad.Service.ServiceFilters.ApiKeyAttribute, Gmg.Identidad.Service",
+        "DependencyType": "Scoped"
+      },
+      {
+        "From": "Gmg.Identidad.Genesys.Services.Monedero.Client.ClienteClient, Gmg.Identidad.Genesys.Services.Monedero.Client",
+        "To": "Gmg.Identidad.Genesys.Services.Monedero.Client.ClienteClient, Gmg.Identidad.Genesys.Services.Monedero.Client",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.DataAccess.Interface.ICuentaFavorita, Gmg.Identidad.Service.DataAccess.Interface",
+        "To": "Gmg.Identidad.Service.DataAccess.CuentaFavorita, Gmg.Identidad.Service.DataAccess",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICuentaFavorita, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.CuentaFavorita, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.DataAccess.Interface.IConfiguracionCuenta, Gmg.Identidad.Service.DataAccess.Interface",
+        "To": "Gmg.Identidad.Service.DataAccess.ConfiguracionCuenta, Gmg.Identidad.Service.DataAccess",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.IConfiguracionCuenta, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.ConfiguracionCuenta, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "CEDULA",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "DIMEX",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "PASAPORTE",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "CEDRESIDENCIA",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "CEDULA_JURIDICA",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "CEDRESIDENTE",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "DUI",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "NIT",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "NRC",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteGenesys, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "MERID",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICliente, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Cliente.ClienteAdquirente, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.Model.Configuration.Token, Gmg.Identidad.Service.Model",
+        "To": "Gmg.Identidad.Service.Model.Configuration.Token, Gmg.Identidad.Service.Model",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.ICuentaFavorita, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.CuentaFavorita, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      },
+      {
+        "From": "Gmg.Identidad.Service.Model.Configuration.IOperationsStatusCodes, Gmg.Identidad.Service.Model",
+        "To": "Gmg.Identidad.Service.Model.Configuration.OperationsStatusCodes, Gmg.Identidad.Service.Model",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "CRI",
+        "From": "Gmg.Identidad.Service.DataAccess.Interface.IComercio, Gmg.Identidad.Service.DataAccess.Interface",
+        "To": "Gmg.Identidad.Service.DataAccess.Comercio, Gmg.Identidad.Service.DataAccess",
+        "DependencyType": "Transient"
+      },
+      {
+        "Name": "CRI",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.IComercio, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.CRI.Comercio, Gmg.Identidad.Service.BusinessLogic.CRI",
+        "DependencyType": "Scoped"
+      },
+      {
+        "Name": "CRI",
+        "From": "Gmg.Identidad.Service.BusinessLogic.Interface.IIdentidad, Gmg.Identidad.Service.BusinessLogic.Interface",
+        "To": "Gmg.Identidad.Service.BusinessLogic.Identidad, Gmg.Identidad.Service.BusinessLogic",
+        "DependencyType": "Transient"
+      }
+
+
+    ]
+  }
+}

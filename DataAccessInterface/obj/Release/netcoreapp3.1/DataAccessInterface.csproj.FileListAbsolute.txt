@@ -1,0 +1,13 @@
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\bin\Release\netcoreapp3.1\DataAccessInterface.deps.json
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\bin\Release\netcoreapp3.1\DataAccessInterface.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\bin\Release\netcoreapp3.1\DataAccessInterface.pdb
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\bin\Release\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\bin\Release\netcoreapp3.1\Modelos.pdb
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.AssemblyInfo.cs
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.csproj.CopyComplete
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\DataAccessInterface\obj\Release\netcoreapp3.1\DataAccessInterface.pdb

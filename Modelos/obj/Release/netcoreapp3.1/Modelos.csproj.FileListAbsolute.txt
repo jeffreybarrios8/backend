@@ -1,0 +1,10 @@
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\bin\Release\netcoreapp3.1\Modelos.deps.json
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\bin\Release\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\bin\Release\netcoreapp3.1\Modelos.pdb
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.AssemblyInfo.cs
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Modelos\obj\Release\netcoreapp3.1\Modelos.pdb

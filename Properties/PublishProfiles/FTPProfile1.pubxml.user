@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWpYZWdKYVUClipiyvVNpuQAAAAACAAAAAAADZgAAwAAAABAAAAD4fLl41KQpE2gVAUziL8buAAAAAASAAACgAAAAEAAAAMAe3y0uLZIr00CLdcV2n5IgAAAAvLms+YSwYeTW6HPfRFG8QMCUE/efOxCYHO1elw7ktQsUAAAAUJifnCZRJfkyl/Zd3621k8ZwelA=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.30/www.CentroEstetica.somee.com</_PublishTargetUrl>
+    <History>False|2022-06-30T20:06:53.1910459Z;False|2022-06-30T14:03:04.8639210-06:00;False|2022-06-30T14:01:14.8608941-06:00;</History>
+  </PropertyGroup>
+</Project>
