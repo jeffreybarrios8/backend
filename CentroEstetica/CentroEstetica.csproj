@@ -5,6 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="appsettings.Environment.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="appsettings.Environment.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Dapper" Version="2.0.123" />
     <PackageReference Include="Gmg.Common.Core" Version="1.2.4" />
     <PackageReference Include="Gmg.CommonPackages" Version="1.0.0" />
