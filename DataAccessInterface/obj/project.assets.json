@@ -6851,11 +6851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj",
+      "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj",
       "projectName": "DataAccessInterface",
-      "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj",
+      "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj",
       "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\obj\\",
+      "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6871,15 +6871,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://gmgnuget.azurewebsites.net/nuget": {},
-        "https://gmgts.pkgs.visualstudio.com/": {}
+        "https://gmgnuget.azurewebsites.net/nuget": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
-              "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj"
+            "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj": {
+              "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj"
             }
           }
         }
@@ -6926,7 +6925,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   },

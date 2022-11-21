@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentroEstetica", "CentroEstetica.csproj", "{33D8ECC5-19C1-4CBD-968D-F37F0E420C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CentroEstetica", "CentroEstetica\CentroEstetica.csproj", "{33D8ECC5-19C1-4CBD-968D-F37F0E420C34}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "..\Modelos\Modelos.csproj", "{765DB0A3-BC36-4E76-9D32-C99BDB2B0220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "Modelos\Modelos.csproj", "{765DB0A3-BC36-4E76-9D32-C99BDB2B0220}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{194CC8F2-AECC-467D-93A7-5BB3C8C5EECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{194CC8F2-AECC-467D-93A7-5BB3C8C5EECC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessInterface", "..\DataAccessInterface\DataAccessInterface.csproj", "{80697C7B-A92E-43B1-A244-421FB7578E96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessInterface", "DataAccessInterface\DataAccessInterface.csproj", "{80697C7B-A92E-43B1-A244-421FB7578E96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "..\Logic\BusinessLogic.csproj", "{1C9FACB7-C3B3-4520-A371-AC0B1292D7CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "Logic\BusinessLogic.csproj", "{1C9FACB7-C3B3-4520-A371-AC0B1292D7CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicInterface", "..\LogicInterface\BusinessLogicInterface.csproj", "{458E0252-70E3-4776-AFCE-CF7A7503A20E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicInterface", "LogicInterface\BusinessLogicInterface.csproj", "{458E0252-70E3-4776-AFCE-CF7A7503A20E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

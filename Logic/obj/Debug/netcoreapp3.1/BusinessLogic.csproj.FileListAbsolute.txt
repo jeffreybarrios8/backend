@@ -32,3 +32,37 @@ C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Logic\obj\Debug\netcoreap
 C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
 C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
 C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\BusinessLogicInterface.dll
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\DataAccessInterface.dll
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\DataAccessInterface.pdb
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\BusinessLogicInterface.pdb
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\JB8157NI\Desktop\Proyecto SI\Proyecto SI\Backend\Centro\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\BusinessLogicInterface.dll
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\DataAccessInterface.dll
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\DataAccessInterface.pdb
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\BusinessLogicInterface.pdb
+C:\Users\JB8157NI\Source\Repos\backend\Logic\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\JB8157NI\Source\Repos\backend\Logic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

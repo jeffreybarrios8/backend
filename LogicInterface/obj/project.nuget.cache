@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+BTbaDBB9HYD4BHXWOru1QADjfmblB4eUzYnKg7YnTHaiXbAbxeZc7LRKvOOYo6aO4OZttjdR7WJt0Xnh19pvA==",
+  "dgSpecHash": "ASLuHEAqfBGmLKKYv/eEoOC8oryFFrb+hHb51BY7o6JQitU9WBZRP2KXIFfk/+7PqUhTtHR839kcwypcak0hiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj",
+  "projectFilePath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JB8157NI\\.nuget\\packages\\commonservicelocator.netcore\\1.3.1\\commonservicelocator.netcore.1.3.1.nupkg.sha512",
     "C:\\Users\\JB8157NI\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

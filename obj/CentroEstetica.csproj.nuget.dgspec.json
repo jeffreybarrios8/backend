@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj": {}
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj": {
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj",
+        "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj",
         "projectName": "CentroEstetica",
-        "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj",
+        "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj",
         "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\obj\\",
+        "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,27 +27,26 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gmgnuget.azurewebsites.net/nuget": {},
-          "https://gmgts.pkgs.visualstudio.com/": {}
+          "https://gmgnuget.azurewebsites.net/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj"
               },
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj"
               },
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj"
               },
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -101,18 +100,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj": {
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj",
+        "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj",
         "projectName": "DataAccessInterface",
-        "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj",
+        "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj",
         "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\obj\\",
+        "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,15 +127,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gmgnuget.azurewebsites.net/nuget": {},
-          "https://gmgts.pkgs.visualstudio.com/": {}
+          "https://gmgnuget.azurewebsites.net/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -183,18 +181,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -210,18 +208,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gmgnuget.azurewebsites.net/nuget": {},
-          "https://gmgts.pkgs.visualstudio.com/": {}
+          "https://gmgnuget.azurewebsites.net/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj"
               },
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -276,18 +273,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj": {
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj",
+        "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj",
         "projectName": "BusinessLogicInterface",
-        "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj",
+        "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj",
         "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\obj\\",
+        "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -303,15 +300,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gmgnuget.azurewebsites.net/nuget": {},
-          "https://gmgts.pkgs.visualstudio.com/": {}
+          "https://gmgnuget.azurewebsites.net/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -358,18 +354,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj": {
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\obj\\",
+        "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -385,18 +381,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gmgnuget.azurewebsites.net/nuget": {},
-          "https://gmgts.pkgs.visualstudio.com/": {}
+          "https://gmgnuget.azurewebsites.net/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj"
               },
-              "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj": {
-                "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj"
+              "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj": {
+                "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj"
               }
             }
           }
@@ -439,18 +434,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj",
+        "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj",
         "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\obj\\",
+        "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -466,8 +461,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gmgnuget.azurewebsites.net/nuget": {},
-          "https://gmgts.pkgs.visualstudio.com/": {}
+          "https://gmgnuget.azurewebsites.net/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -517,7 +511,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

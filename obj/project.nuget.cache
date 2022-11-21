@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IY3Nj1fHli1q3GxbAjjBurUglGKhYILXFgML/64NHB3lN9guvmZ9t2BJ5HlPeAeMDGFnRK9hTlMsG/YD/0CWgA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj",
+  "dgSpecHash": "dI4dGMf8I54Z/N3rW0mo1hPUqzkhIIv9oUijbV2LoT3BTW0kIbHrh3vYSFiCG51Dn1ltFVVfMdlrEBPqhAvLNQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JB8157NI\\.nuget\\packages\\commonservicelocator.netcore\\1.3.1\\commonservicelocator.netcore.1.3.1.nupkg.sha512",
     "C:\\Users\\JB8157NI\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
@@ -159,6 +159,42 @@
     "C:\\Users\\JB8157NI\\.nuget\\packages\\unity.netcore\\4.0.3\\unity.netcore.4.0.3.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",

@@ -2271,9 +2271,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "BusinessLogicInterface": "1.0.0",
+          "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj": "1.0.0",
+          "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj": "1.0.0",
           "Dapper": "2.0.123",
-          "DataAccessInterface": "1.0.0",
           "Gmg.Common.Core": "1.2.4",
           "Gmg.CommonPackages": "1.0.0"
         },
@@ -2288,11 +2288,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj": "1.0.0",
           "Dapper": "2.0.123",
           "Gmg.Common.Core": "1.2.4",
           "Gmg.CommonPackages": "1.0.0",
-          "Microsoft.AspNet.WebApi.Core": "5.2.9",
-          "Modelos": "1.0.0"
+          "Microsoft.AspNet.WebApi.Core": "5.2.9"
         },
         "compile": {
           "bin/placeholder/BusinessLogicInterface.dll": {}
@@ -2325,11 +2325,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj": "1.0.0",
           "Dapper": "2.0.123",
           "Gmg.Common.Core": "1.2.4",
           "Gmg.CommonPackages": "1.0.0",
-          "Microsoft.AspNet.WebApi.Core": "5.2.9",
-          "Modelos": "1.0.0"
+          "Microsoft.AspNet.WebApi.Core": "5.2.9"
         },
         "compile": {
           "bin/placeholder/DataAccessInterface.dll": {}
@@ -7335,28 +7335,28 @@
     },
     "BusinessLogic/1.0.0": {
       "type": "project",
-      "path": "../Logic/BusinessLogic.csproj",
-      "msbuildProject": "../Logic/BusinessLogic.csproj"
+      "path": "Logic/BusinessLogic.csproj",
+      "msbuildProject": "Logic/BusinessLogic.csproj"
     },
     "BusinessLogicInterface/1.0.0": {
       "type": "project",
-      "path": "../LogicInterface/BusinessLogicInterface.csproj",
-      "msbuildProject": "../LogicInterface/BusinessLogicInterface.csproj"
+      "path": "LogicInterface/BusinessLogicInterface.csproj",
+      "msbuildProject": "LogicInterface/BusinessLogicInterface.csproj"
     },
     "DataAccess/1.0.0": {
       "type": "project",
-      "path": "../DataAccess/DataAccess.csproj",
-      "msbuildProject": "../DataAccess/DataAccess.csproj"
+      "path": "DataAccess/DataAccess.csproj",
+      "msbuildProject": "DataAccess/DataAccess.csproj"
     },
     "DataAccessInterface/1.0.0": {
       "type": "project",
-      "path": "../DataAccessInterface/DataAccessInterface.csproj",
-      "msbuildProject": "../DataAccessInterface/DataAccessInterface.csproj"
+      "path": "DataAccessInterface/DataAccessInterface.csproj",
+      "msbuildProject": "DataAccessInterface/DataAccessInterface.csproj"
     },
     "Modelos/1.0.0": {
       "type": "project",
-      "path": "../Modelos/Modelos.csproj",
-      "msbuildProject": "../Modelos/Modelos.csproj"
+      "path": "Modelos/Modelos.csproj",
+      "msbuildProject": "Modelos/Modelos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -7380,11 +7380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj",
+      "projectUniqueName": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj",
       "projectName": "CentroEstetica",
-      "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\CentroEstetica.csproj",
+      "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\CentroEstetica.csproj",
       "packagesPath": "C:\\Users\\JB8157NI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\CentroEstetica\\obj\\",
+      "outputPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7400,27 +7400,26 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://gmgnuget.azurewebsites.net/nuget": {},
-        "https://gmgts.pkgs.visualstudio.com/": {}
+        "https://gmgnuget.azurewebsites.net/nuget": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj": {
-              "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccessInterface\\DataAccessInterface.csproj"
+            "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj": {
+              "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\DataAccessInterface.csproj"
             },
-            "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj": {
-              "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\LogicInterface\\BusinessLogicInterface.csproj"
+            "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj": {
+              "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\BusinessLogicInterface.csproj"
             },
-            "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Logic\\BusinessLogic.csproj"
+            "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj": {
-              "projectPath": "C:\\Users\\JB8157NI\\Desktop\\Documentos\\ProyectoSI\\Centro\\Modelos\\Modelos.csproj"
+            "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj": {
+              "projectPath": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Modelos\\Modelos.csproj"
             }
           }
         }
@@ -7474,11 +7473,47 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   },
   "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\LogicInterface\\Modelos\\Modelos.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\DataAccessInterface\\Modelos\\Modelos.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\LogicInterface\\BusinessLogicInterface.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\JB8157NI\\Source\\Repos\\backend\\Logic\\DataAccessInterface\\DataAccessInterface.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",

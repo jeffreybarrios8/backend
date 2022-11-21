@@ -141,3 +141,11 @@ C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\CentroEstetica\obj\Debug\
 C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\CentroEstetica\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\CentroEstetica\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 C:\Users\JB8157NI\Desktop\Documentos\ProyectoSI\Centro\CentroEstetica\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.dll
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.pdb
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.csproj.AssemblyReference.cache
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.AssemblyInfoInputs.cache
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.AssemblyInfo.cs
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.csproj.CoreCompileInputs.cache
+C:\Users\JB8157NI\Source\Repos\backend\obj\Debug\netcoreapp3.1\CentroEstetica.MvcApplicationPartsAssemblyInfo.cache
